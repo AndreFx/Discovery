@@ -8,6 +8,7 @@ plugins {
 sonarqube {
     properties {
         property "sonar.projectKey", "AndreFx_Discovery"
+        property "sonar.projectName", "Discovery"
         property "sonar.organization", "andrefx"
         property "sonar.host.url", "https://sonarcloud.io"
     }
