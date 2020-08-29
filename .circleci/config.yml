@@ -56,7 +56,7 @@ jobs:
           path: ~/test-results
 
       - store_artifacts:
-          path: ~/repo/build/libs/authentication-spring-boot-docker-0.0.1.jar
+          path: ~/repo/build/libs/discovery-spring-boot-docker-0.0.1.jar
 workflows:
   main:
     jobs:
