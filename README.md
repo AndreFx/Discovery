@@ -5,4 +5,4 @@
 Build: [![CircleCI](https://circleci.com/gh/AndreFx/Discovery.svg?style=svg)](https://circleci.com/gh/AndreFx/Discovery)
 
 # Discovery
-Discovery Gateway Microservice
+Discovery Microservice
